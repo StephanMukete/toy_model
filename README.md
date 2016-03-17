@@ -7,7 +7,6 @@ TOC ~ you can submit your code and your code will be compiled in docker.
 
 ##Features
 
-* more than 10 language support
 * you can define your own compile command (TODO)
 * Cli-interface for TOC : you just need to type `toc file.cpp --input test.in` in your terminal, you will get the output in less than a minute!(TODO)
 * docker supported , Our compiling serivce runs on docker ~ no need to feel pain about security issue
